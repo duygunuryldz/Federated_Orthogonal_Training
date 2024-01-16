@@ -1,6 +1,8 @@
-# Federated Orthogonal Training: Mitigating Global Catastrophic Forgetting in Continual Federated Learning
+# Federated Orthogonal Training: Mitigating Global Catastrophic Forgetting in Continual Federated Learning - ICLR 2024
 
-We run the simulation experiment with the FedML packages provided in fedaudio.
+The paper link : https://arxiv.org/pdf/2309.01289.pdf 
+
+We run the simulation experiment with the FedML packages provided in [ FedAudio](https://github.com/zhang-tuo-pdf/FedAudio/tree/main/FedML).
 
 ## Installation
 
